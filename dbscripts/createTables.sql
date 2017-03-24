@@ -1,12 +1,12 @@
-CREATE TABLE `employee` (
-  `id_emp` mediumint,
-  `phone` varchar(100) default NULL,
-  `address` varchar(255) default NULL,
-  `city` varchar(255),
-  `state` varchar(50) default NULL,
-  `zip` varchar(10) default NULL,
-  `name` varchar(255) default NULL,
-  `startdate` varchar(255)
+CREATE TABLE `employee` ( 
+  `id_emp` mediumint, 
+  `phone` varchar(100) default NULL, 
+  `address` varchar(255) default NULL, 
+  `city` varchar(255), 
+  `state` varchar(50) default NULL, 
+  `zip` varchar(10) default NULL, 
+  `name` varchar(255) default NULL, 
+  `startdate` varchar(255) 
 );
 
 ALTER TABLE employee ADD PRIMARY KEY(id_emp);
@@ -27,12 +27,11 @@ ALTER TABLE merchandiser ADD PRIMARY KEY(id_emp);
 
 CREATE TABLE `sommelier` (
   `id_emp` mediumint,
-  `alc_cert` varchar(11) default NULL,
+  `alc_cert` varchar(13) default NULL,
   `hourly_pay` varchar(100) default NULL
 );
 
 ALTER TABLE sommelier ADD PRIMARY KEY(id_emp);
-
 
 CREATE TABLE `store` (
   `id_store` mediumint,
@@ -41,7 +40,7 @@ CREATE TABLE `store` (
   `city` varchar(255),
   `state` varchar(50) default NULL,
   `zip` varchar(10) default NULL,
-  `name` varchar(255) default NULL
+  `name` varchar(255)
 );
 
 ALTER TABLE store ADD PRIMARY KEY(id_store);
