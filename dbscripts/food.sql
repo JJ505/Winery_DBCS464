@@ -5,7 +5,7 @@ CREATE TABLE `food` (
   `price` varchar(100) default NULL
 );
 
-INSERT INTO `food` (`food_name`,`price`) VALUES ("Quam Quis Incorporated","$4.41"),("Luctus Curabitur Company","$55.69"),("Mi Fringilla Mi Ltd","$24.94"),("Molestie Consulting","$38.28"),("Eu Elit Nulla Corporation","$30.02"),("Nunc Laoreet Lectus Corp.","$27.43"),("Lacus Varius Associates","$13.31"),("Est Ac Inc.","$0.33"),("Nisi A Corp.","$12.64"),("Enim Nec Company","$34.69");
+INSERT INTO `food` (`food_name`,`price`) VALUES ("Nunc Laoreet Lectus Corp.","$27.43"),("Lacus Varius Associates","$13.31"),("Est Ac Inc.","$0.33"),("Nisi A Corp.","$12.64"),("Enim Nec Company","$34.69");
 INSERT INTO `food` (`food_name`,`price`) VALUES ("At Institute","$1.21"),("Nullam Ut Ltd","$18.46"),("Nunc Ltd","$29.18"),("Lorem Associates","$17.13"),("Ac Fermentum Vel LLC","$37.86"),("Ornare Inc.","$47.17"),("Sed Dui Fusce Limited","$41.68"),("Diam At LLP","$14.62"),("Ridiculus Mus Proin LLC","$22.88"),("Vitae Foundation","$26.98");
 INSERT INTO `food` (`food_name`,`price`) VALUES ("Nec Enim Corporation","$4.52"),("Mus Donec Dignissim LLC","$38.41"),("Fringilla Ornare Foundation","$15.19"),("Erat Institute","$3.55"),("Laoreet Corporation","$49.76"),("Tellus Consulting","$20.77"),("In Associates","$42.68"),("Arcu Corporation","$16.65"),("Gravida Mauris Ut Inc.","$37.49"),("Duis Volutpat Nunc Institute","$57.70");
 INSERT INTO `food` (`food_name`,`price`) VALUES ("Et Ipsum Consulting","$49.91"),("Sit Amet Associates","$53.68"),("Sed Eu Nibh Inc.","$38.60"),("Eleifend Nec Malesuada LLP","$15.57"),("Felis Consulting","$1.58"),("A Incorporated","$25.21"),("Mauris Ltd","$11.44"),("Felis Corporation","$10.70"),("Adipiscing Elit Aliquam Institute","$41.40"),("A Incorporated","$8.65");
