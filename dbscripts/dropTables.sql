@@ -1,0 +1,10 @@
+DROP TABLE `employee`;
+DROP TABLE `manager`;
+DROP TABLE `merchandiser`;
+DROP TABLE `sommelier`;
+DROP TABLE `store`;
+DROP TABLE `wine`;
+DROP TABLE `location`;
+DROP TABLE `food`;
+DROP TABLE `online_lead`;
+DROP TABLE `online_buyer`;
