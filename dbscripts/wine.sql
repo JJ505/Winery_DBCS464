@@ -1,12 +1,3 @@
-DROP TABLE `wine`;
-
-CREATE TABLE `wine` (
-  `id_item` mediumint,
-  `type` varchar(255),
-  `vintage` mediumint default NULL,
-  `price` varchar(100) default NULL
-);
-
 INSERT INTO `wine` (`id_item`,`type`,`vintage`,`price`) VALUES (4999999996,"Porttitor Inc.",1919,"$788.99"),(5999999995,"Amet Dapibus Id LLC",1999,"$107.16"),(6999999994,"Enim Mi Tempor PC",1925,"$193.43"),(7999999993,"Eu Tellus LLP",1914,"$931.31"),(8999999992,"Diam Duis Institute",1997,"$970.39");
 INSERT INTO `wine` (`id_item`,`type`,`vintage`,`price`) VALUES (9999999991,"Sit Limited",1893,"$365.74"),(10999999990,"Curabitur Egestas Consulting",1900,"$28.73"),(11999999989,"Sem Elit Consulting",1939,"$492.20"),(12999999988,"Integer Urna Industries",1945,"$106.94"),(13999999987,"Augue Scelerisque Corp.",1989,"$408.72"),(14999999986,"Convallis Dolor Foundation",1992,"$566.81"),(15999999985,"Augue Malesuada Malesuada Consulting",1986,"$828.40"),(16999999984,"Nonummy Corp.",1988,"$325.05"),(17999999983,"Fusce Dolor Ltd",1880,"$194.09"),(18999999982,"Varius Ultrices Mauris Ltd",1925,"$710.37");
 INSERT INTO `wine` (`id_item`,`type`,`vintage`,`price`) VALUES (19999999981,"Ornare Fusce Mollis Limited",1947,"$460.02"),(20999999980,"Augue Porttitor LLC",1943,"$852.56"),(21999999979,"Aliquet Molestie Company",1931,"$557.94"),(22999999978,"Tincidunt Nibh Phasellus LLC",1993,"$742.64"),(23999999977,"Viverra Donec Tempus PC",1987,"$328.01"),(24999999976,"Eleifend Egestas Company",2000,"$520.83"),(25999999975,"Quam Dignissim Pharetra Corporation",1934,"$879.29"),(26999999974,"Feugiat Lorem Corp.",1884,"$126.33"),(27999999973,"Aenean Egestas Corp.",1974,"$582.57"),(28999999972,"Ut Nulla Corp.",1962,"$318.14");

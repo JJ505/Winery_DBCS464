@@ -1,14 +1,3 @@
-DROP TABLE `location`;
-
-CREATE TABLE `location` (
-  `phone` varchar(100) default NULL,
-  `address` varchar(255) default NULL,
-  `city` varchar(255),
-  `state` varchar(50) default NULL,
-  `zip` varchar(10) default NULL,
-  `hours` varchar(255) default NULL
-);
-
 INSERT INTO `location` (`phone`,`address`,`city`,`state`,`zip`,`hours`) VALUES ("(170) 969-7438","577-2151 Egestas Rd.","Lidingo","Stockholms län","69850","Coby"),("(363) 385-2942","Ap #861-9275 Sit Rd.","Söderhamn","X","76240-915","Jenna"),("(379) 966-6104","7260 Tempor Avenue","","","86968","Lucius"),("(329) 309-2173","Ap #696-9475 Ornare. St.","Caucaia","CE","60978-805","Isaiah"),("(134) 511-8507","429-4139 Convallis Av.","","","65905","Angela");
 INSERT INTO `location` (`phone`,`address`,`city`,`state`,`zip`,`hours`) VALUES ("(797) 303-7001","Ap #320-402 Cursus St.","Lidköping","O","96503","Nissim"),("(586) 759-0604","P.O. Box 792, 428 Dolor Road","Kungälv","O","23339-722","Alexis"),("(810) 463-8806","897-8961 Et Street","Södertälje","AB","56219","Joel"),("(281) 120-3514","Ap #455-2573 Quam. Av.","Gorzów Wielkopolski","LB","R5V 8E4","Amy"),("(979) 355-7976","Ap #210-4799 Donec St.","Welland","ON","42768-229","Sandra"),("(956) 826-2441","199-9454 Nisi Avenue","Berlin","BE","19484-037","Ria"),("(604) 435-4603","792 Magna Road","","","59438","Desiree"),("(572) 498-7101","304-565 Ligula. St.","Eckernförde","SL","88610","Gretchen"),("(351) 822-6341","9035 Ipsum. St.","São Gonçalo","Rio de Janeiro","75874","Kirsten"),("(161) 499-4109","2037 Euismod Street","King Township","Ontario","76522","Anastasia");
 INSERT INTO `location` (`phone`,`address`,`city`,`state`,`zip`,`hours`) VALUES ("(435) 319-3806","Ap #263-5011 A Ave","Nova Iguaçu","RJ","35412","Richard"),("(474) 790-2552","3992 Elit, Road","Governador Valadares","MG","34361746","Warren"),("(107) 161-6391","Ap #349-3045 Eu, Avenue","Berlin","BE","94237-952","Conan"),("(885) 162-5976","6004 Phasellus Road","Boo","AB","41500","Zenaida"),("(647) 677-3707","237-9261 Vel Street","Berlin","BE","31887","Garth"),("(647) 197-1048","1207 Proin Road","","","53247","Holly"),("(776) 363-1757","9820 Viverra. St.","Juazeiro do Norte","Ceará","36846","Wynne"),("(472) 155-5405","287-3956 Ac Av.","Osasco","São Paulo","15487-066","Daryl"),("(171) 422-8027","732 Pede Av.","","","L9H 8Y2","Patience"),("(806) 222-8139","7716 Ultricies Rd.","Piotrków Trybunalski","LD","31924","Christine");
