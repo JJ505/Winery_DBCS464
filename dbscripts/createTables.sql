@@ -15,14 +15,14 @@ CREATE TABLE `manager` (
   `id_emp` mediumint,
   `salary` mediumint default NULL,
   `benefits_code` mediumint default NULL
-)
+);
 ALTER TABLE manager ADD PRIMARY KEY(id_emp);
 
 CREATE TABLE `merchandiser` (
   `id_emp` mediumint,
   `auto_ins` varchar(13) default NULL,
   `hourly_pay` mediumint default NULL
-)
+);
 ALTER TABLE merchandiser ADD PRIMARY KEY(id_emp);
 
 CREATE TABLE `sommelier` (
