@@ -91,12 +91,13 @@ Set state = 'CA'
 Where phone like '8%';
 
 -- 2 deletes
+
 Delete 
 From online_lead
 Where name IN (Select name
 	           From (Select name, count(email) as CNT
 	           	     From online_lead
-	           	     Group By name Having CNT>5));
+	           	     Group By name Having CNT>5) AS A);
 
 Delete
 From online_buyer

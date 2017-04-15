@@ -1,0 +1,791 @@
+mysql> source queriesAndUpdates.sql
++---------+--------------------------------------+---------+-------+
+| id_item | type                                 | vintage | price |
++---------+--------------------------------------+---------+-------+
+|     101 | Duis Cursus Foundation               |    1966 |   176 |
+|     102 | Fusce Aliquet Company                |    2001 |   349 |
+|     103 | Tortor Nunc Commodo Industries       |    1870 |   589 |
+|     105 | Sed Tortor Integer PC                |    1948 |   141 |
+|     106 | Neque Venenatis Lacus Foundation     |    1956 |   970 |
+|     107 | Pellentesque A Ltd                   |    2008 |   958 |
+|     108 | Magnis Dis Parturient Industries     |    1979 |   193 |
+|     109 | Sociis Natoque Penatibus LLC         |    1994 |   478 |
+|     110 | Arcu Sed Et Inc.                     |    1975 |   383 |
+|     111 | Penatibus Et Magnis Corp.            |    1891 |   869 |
+|     112 | Diam Duis Company                    |    2013 |  1038 |
+|     115 | Mauris Elit Dictum Consulting        |    1894 |   920 |
+|     118 | Vestibulum Accumsan Neque Ltd        |    1878 |   471 |
+|     119 | Diam Proin Corp.                     |    1946 |   869 |
+|     120 | Consequat Auctor Nunc Limited        |    1914 |  1063 |
+|     121 | In Consulting                        |    1977 |   322 |
+|     122 | Eu Eros Nam Company                  |    1992 |   780 |
+|     123 | Faucibus Ut Company                  |    1888 |   400 |
+|     124 | Nunc Sed Pede LLP                    |    1949 |  1126 |
+|     125 | Augue Industries                     |    1895 |   235 |
+|     126 | Eu Ligula Limited                    |    1891 |   734 |
+|     127 | Mollis Lectus Pede Incorporated      |    1892 |   768 |
+|     128 | A Enim Ltd                           |    1926 |   896 |
+|     129 | Quisque Purus Sapien Consulting      |    1974 |  1004 |
+|     131 | At Iaculis Foundation                |    1926 |   440 |
+|     132 | Maecenas Mi Foundation               |    1950 |   551 |
+|     133 | Et LLP                               |    1966 |   578 |
+|     134 | Mi Aliquam Gravida PC                |    1906 |   364 |
+|     135 | Proin Eget Odio Inc.                 |    1967 |  1138 |
+|     136 | Vitae Semper Egestas Inc.            |    1956 |   257 |
+|     137 | Donec Associates                     |    1966 |   296 |
+|     138 | Pellentesque Institute               |    1883 |   424 |
+|     139 | Eu Ltd                               |    2007 |   549 |
+|     140 | Id Inc.                              |    1983 |   583 |
+|     141 | Mattis Velit Limited                 |    1985 |   116 |
+|     142 | Cursus Consulting                    |    1889 |   685 |
+|     143 | Aliquet Odio Etiam Consulting        |    1883 |   649 |
+|     144 | Metus Facilisis PC                   |    1888 |   114 |
+|     145 | Mauris Non PC                        |    1873 |   272 |
+|     146 | Ac Arcu Limited                      |    1934 |   537 |
+|     147 | Magna Incorporated                   |    2000 |  1152 |
+|     148 | Egestas Aliquam Fringilla Corp.      |    1959 |   109 |
+|     149 | Dolor Vitae Dolor LLC                |    1975 |  1032 |
+|     151 | Sit Amet Consulting                  |    1886 |   475 |
+|     152 | Tellus Imperdiet Incorporated        |    1931 |   744 |
+|     153 | Eleifend Incorporated                |    1934 |  1073 |
+|     154 | Integer Tincidunt Corporation        |    2013 |   850 |
+|     155 | Cras Corp.                           |    1888 |   498 |
+|     157 | Magna Suspendisse Tristique Ltd      |    1921 |  1200 |
+|     158 | Cras Eget Limited                    |    1905 |   172 |
+|     159 | Est Mollis Non Associates            |    1907 |  1152 |
+|     160 | Non Nisi Aenean Foundation           |    2000 |   406 |
+|     161 | Mollis Corp.                         |    1928 |  1158 |
+|     163 | Ipsum Phasellus Vitae Industries     |    1914 |   998 |
+|     164 | Nibh Lacinia Orci Limited            |    1958 |  1104 |
+|     165 | Tellus Suspendisse PC                |    1871 |   668 |
+|     166 | Nulla Dignissim Maecenas Corporation |    1944 |   275 |
+|     167 | Eu PC                                |    2014 |   178 |
+|     168 | Blandit Mattis Institute             |    1979 |   793 |
+|     169 | At Pretium Aliquet Associates        |    2012 |   564 |
+|     170 | Augue Eu Ltd                         |    1907 |   793 |
+|     171 | Sem Semper Erat Limited              |    1923 |   499 |
+|     172 | At Libero Morbi Consulting           |    1937 |  1188 |
+|     173 | Egestas Inc.                         |    1981 |   519 |
+|     174 | Et Netus Et Industries               |    1916 |   305 |
+|     175 | Mattis Cras Eget LLC                 |    2009 |   907 |
+|     177 | Metus Facilisis Lorem LLP            |    1992 |   876 |
+|     178 | A Enim Limited                       |    1873 |   316 |
+|     179 | Aenean Corp.                         |    1933 |   786 |
+|     180 | Et Malesuada Fames LLP               |    1967 |  1066 |
+|     181 | Sem Mollis Dui Limited               |    1922 |   717 |
+|     182 | Enim Inc.                            |    1911 |   655 |
+|     183 | Leo Morbi Neque Industries           |    1937 |   638 |
+|     184 | Lorem Vehicula Et Corp.              |    1877 |   411 |
+|     185 | Mauris LLP                           |    2011 |  1165 |
+|     186 | Aliquet Libero Integer Associates    |    1875 |   868 |
+|     187 | Nunc Id Enim Ltd                     |    1901 |   820 |
+|     188 | Erat Vivamus Industries              |    1947 |  1198 |
+|     189 | Id Ltd                               |    2004 |   542 |
+|     190 | Cras PC                              |    1985 |   853 |
+|     191 | Ornare Libero Foundation             |    1978 |   141 |
+|     192 | Curabitur Consequat Corporation      |    2005 |   516 |
+|     193 | Massa Rutrum Magna Consulting        |    1872 |   348 |
+|     194 | Aliquet Lobortis Ltd                 |    1970 |   742 |
+|     195 | Id Magna Company                     |    1952 |   947 |
+|     196 | Luctus Et Incorporated               |    1928 |   409 |
+|     197 | Volutpat Corporation                 |    2011 |   658 |
+|     198 | Ligula Industries                    |    1947 |   952 |
+|     200 | Adipiscing Elit Curabitur Industries |    1938 |   119 |
+|     201 | Dictum Incorporated                  |    1993 |   861 |
+|     202 | At Nisi Foundation                   |    1912 |   984 |
+|     203 | In Industries                        |    1879 |   318 |
+|     204 | Ut Erat Ltd                          |    1986 |   349 |
+|     205 | Tempor Diam Company                  |    1905 |   939 |
+|     206 | Phasellus Vitae Corp.                |    1888 |   890 |
+|     207 | Imperdiet Dictum Magna Institute     |    1911 |   767 |
+|     208 | Velit Cras Institute                 |    1926 |   176 |
+|     209 | Faucibus Leo Limited                 |    1894 |   631 |
+|     211 | Aliquam Enim Corporation             |    1972 |   253 |
+|     212 | Amet Corporation                     |    1900 |   331 |
++---------+--------------------------------------+---------+-------+
+100 rows in set (0.00 sec)
+
++-------------------------+----------+
+| name                    | alc_cert |
++-------------------------+----------+
+| Caldwell, Lance L.      |   835671 |
+| Reese, Cheryl Q.        |   628667 |
+| Calderon, Paloma P.     |   939120 |
+| Stanton, Porter C.      |   692997 |
+| Delaney, Eden T.        |   864030 |
+| Romero, Shelly C.       |    14450 |
+| Cash, Ezra L.           |    29261 |
+| Mercer, Cedric G.       |    15162 |
+| Guerra, Ima P.          |    29283 |
+| Hood, Vladimir W.       |    19629 |
+| Myers, Griffin H.       |    10397 |
+| Kirby, Tatiana U.       |    21160 |
+| Nash, Karleigh U.       |    25236 |
+| Hamilton, Lillith J.    |    21025 |
+| Roy, Avye A.            |    12009 |
+| Gross, Lavinia H.       |    14939 |
+| Brennan, Conan B.       |    19796 |
+| Pope, Herrod B.         |    14943 |
+| Rosa, Porter V.         |    17302 |
+| Burke, Illiana U.       |    27621 |
+| King, Evelyn M.         |    19706 |
+| Pitts, Hiram R.         |    11250 |
+| Rasmussen, Cameron D.   |    11812 |
+| Rosa, Wyoming Q.        |    25605 |
+| Watson, Jasmine P.      |    29507 |
+| Romero, Vera Z.         |    28067 |
+| Bass, Sebastian Y.      |    18482 |
+| Bird, Eleanor C.        |    12578 |
+| Cardenas, Reed S.       |    17893 |
+| Johns, Meredith R.      |    12736 |
+| Myers, Kameko I.        |    17158 |
+| Orr, Wyoming F.         |    24856 |
+| Ballard, Isabelle K.    |    17835 |
+| Flynn, Uta Z.           |    11763 |
+| Dillon, Gavin B.        |    26938 |
+| Weeks, Keaton R.        |    11060 |
+| Douglas, Hiroko J.      |    27453 |
+| Moody, Evan D.          |    15067 |
+| Gates, Amanda E.        |    20264 |
+| Hudson, Cade G.         |    22590 |
+| Estes, Hakeem N.        |    18145 |
+| Lott, Ivory A.          |    12571 |
+| Garner, Ezra C.         |    14563 |
+| Owens, Britanney H.     |    29366 |
+| Haley, Yardley V.       |    24515 |
+| Moses, Sean S.          |    28852 |
+| Moreno, Brock X.        |    19482 |
+| Kemp, Yuli U.           |    10946 |
+| Price, Eleanor G.       |    20331 |
+| Richmond, Mara Z.       |    22956 |
+| Johnston, Isaiah H.     |    27734 |
+| Barker, Kaden M.        |    11163 |
+| Maxwell, Ivory Y.       |    27179 |
+| Ortiz, Drake J.         |    10564 |
+| Nolan, Virginia V.      |    26073 |
+| Salazar, Mia R.         |    25763 |
+| Wall, Callie V.         |    25396 |
+| Smith, Zachery Y.       |    21780 |
+| Wade, Tanisha I.        |    16116 |
+| Berry, Dexter K.        |    24474 |
+| Galloway, Boris J.      |    13789 |
+| Obrien, Solomon E.      |    25575 |
+| Bond, Jonas Z.          |    26632 |
+| Armstrong, Keith L.     |    13567 |
+| Norris, Roary W.        |    25283 |
+| Long, Brent A.          |    10623 |
+| Cardenas, Damian T.     |    11090 |
+| Bentley, Ivory R.       |    10254 |
+| Vaughan, Fritz T.       |    16727 |
+| Strong, Janna B.        |    20539 |
+| Fulton, Laurel R.       |    23730 |
+| Sawyer, Rylee K.        |    29717 |
+| Bond, Reese J.          |    22536 |
+| Whitaker, Finn B.       |    29392 |
+| Wilder, Judah Q.        |    20522 |
+| Orr, Cedric L.          |    14584 |
+| Kelley, Lacy P.         |    29431 |
+| Mccullough, Lawrence S. |    14359 |
+| Silva, Bertha G.        |    29696 |
+| Mcguire, Mollie W.      |    12431 |
+| Burke, Derek O.         |    11370 |
+| Blackwell, Ryan G.      |    15650 |
+| Alvarez, Cole N.        |    11930 |
+| Knapp, Hayley X.        |    20947 |
+| Massey, Alexandra J.    |    20337 |
+| Schmidt, Sheila R.      |    19457 |
+| Wade, Keely X.          |    11945 |
+| Church, Wyoming G.      |    16802 |
+| Vinson, Kalia P.        |    23330 |
+| Hodge, Zenaida S.       |    29518 |
+| Sanders, Eagan R.       |    20548 |
+| Frazier, Tad O.         |    10241 |
+| Munoz, Madison T.       |    21397 |
+| Hansen, Oleg G.         |    22618 |
+| Holden, Dolan U.        |    16045 |
+| Hobbs, Alfreda P.       |    27025 |
+| Fletcher, Nevada R.     |    28615 |
+| Monroe, Chaim N.        |    16879 |
+| Watson, Hollee Q.       |    13527 |
+| Stuart, Adena T.        |    28105 |
++-------------------------+----------+
+100 rows in set (0.01 sec)
+
++------------------------------+---------+--------------------------------------+
+| Type                         | vintage | food_name                            |
++------------------------------+---------+--------------------------------------+
+| Cursus LLC                   |    1981 | Dolor Dolor Tempus PC                |
+| Cursus LLC                   |    1981 | Duis Ltd                             |
+| Cursus LLC                   |    1981 | Id Nunc Ltd                          |
+| Cursus LLC                   |    1981 | Molestie Incorporated                |
+| Cursus LLC                   |    1981 | Molestie Sodales Mauris PC           |
+| Cursus LLC                   |    1981 | Vel Pede Blandit Corporation         |
+| Sit Amet PC                  |    1978 | Blandit Viverra Associates           |
+| Sit Amet PC                  |    1978 | Eleifend Corp.                       |
+| Sit Amet PC                  |    1978 | Elit Fermentum Risus Incorporated    |
+| Sit Amet PC                  |    1978 | Facilisis Vitae Orci Limited         |
+| Sit Amet PC                  |    1978 | Malesuada Augue Ut Industries        |
+| Sit Amet PC                  |    1978 | Natoque Penatibus Et Consulting      |
+| Sit Amet PC                  |    1978 | Nec Tempus Associates                |
+| Sit Amet PC                  |    1978 | Nibh Institute                       |
+| Sit Amet PC                  |    1978 | Sit LLC                              |
+| Sit Amet PC                  |    1978 | Ut Semper Ltd                        |
+| In Consequat LLC             |    1889 | Blandit Viverra Associates           |
+| In Consequat LLC             |    1889 | Dolor Quam Elementum Corp.           |
+| In Consequat LLC             |    1889 | Donec Associates                     |
+| In Consequat LLC             |    1889 | Facilisis Vitae Orci Limited         |
+| In Consequat LLC             |    1889 | Nec Tempus Associates                |
+| In Consequat LLC             |    1889 | Nibh Institute                       |
+| In Consequat LLC             |    1889 | Nunc Risus Varius Inc.               |
+| In Consequat LLC             |    1889 | Parturient Montes Consulting         |
+| In Consequat LLC             |    1889 | Ullamcorper Nisl Arcu Ltd            |
+| In Consequat LLC             |    1889 | Ut Molestie In Limited               |
+| In Consequat LLC             |    1889 | Vehicula Aliquet Corp.               |
+| Fermentum PC                 |    1978 | A Felis Institute                    |
+| Fermentum PC                 |    1978 | Aliquet Institute                    |
+| Fermentum PC                 |    1978 | Blandit Nam Company                  |
+| Fermentum PC                 |    1978 | Dui Lectus Institute                 |
+| Fermentum PC                 |    1978 | Fermentum Risus Consulting           |
+| Fermentum PC                 |    1978 | Massa Inc.                           |
+| Fermentum PC                 |    1978 | Netus Corporation                    |
+| Fermentum PC                 |    1978 | Vitae Purus Gravida Inc.             |
+| Fermentum PC                 |    1978 | Vivamus Nibh Dolor Consulting        |
+| Hendrerit Incorporated       |    1894 | Erat Volutpat Incorporated           |
+| Hendrerit Incorporated       |    1894 | Et Magna PC                          |
+| Hendrerit Incorporated       |    1894 | Risus Odio Auctor Corporation        |
+| Pharetra Nibh Foundation     |    1905 | Eleifend Corp.                       |
+| Pharetra Nibh Foundation     |    1905 | Elit Fermentum Risus Incorporated    |
+| Pharetra Nibh Foundation     |    1905 | Facilisis Vitae Orci Limited         |
+| Pharetra Nibh Foundation     |    1905 | Malesuada Augue Ut Industries        |
+| Pharetra Nibh Foundation     |    1905 | Natoque Penatibus Et Consulting      |
+| Pharetra Nibh Foundation     |    1905 | Nec Tempus Associates                |
+| Pharetra Nibh Foundation     |    1905 | Sit LLC                              |
+| Pharetra Nibh Foundation     |    1905 | Ut Semper Ltd                        |
+| Magna Praesent Interdum PC   |    1899 | Dolor Dolor Tempus PC                |
+| Magna Praesent Interdum PC   |    1899 | Duis Ltd                             |
+| Magna Praesent Interdum PC   |    1899 | Massa Inc.                           |
+| Magna Praesent Interdum PC   |    1899 | Molestie Incorporated                |
+| Magna Praesent Interdum PC   |    1899 | Molestie Sodales Mauris PC           |
+| Magna Praesent Interdum PC   |    1899 | Netus Corporation                    |
+| Magna Praesent Interdum PC   |    1899 | Vel Pede Blandit Corporation         |
+| Parturient Montes LLP        |    1984 | Justo LLP                            |
+| Parturient Montes LLP        |    1984 | Luctus Sit Amet Corp.                |
+| Parturient Montes LLP        |    1984 | Montes Nascetur Ridiculus Industries |
+| Parturient Montes LLP        |    1984 | Tellus Aenean Egestas Incorporated   |
+| Parturient Montes LLP        |    1984 | Varius Et PC                         |
+| At Augue Id Corp.            |    1916 | Donec Est Corporation                |
+| At Augue Id Corp.            |    1916 | Enim Corporation                     |
+| At Augue Id Corp.            |    1916 | Justo LLP                            |
+| At Augue Id Corp.            |    1916 | Luctus Sit Amet Corp.                |
+| At Augue Id Corp.            |    1916 | Montes Nascetur Ridiculus Industries |
+| At Augue Id Corp.            |    1916 | Tellus Aenean Egestas Incorporated   |
+| At Augue Id Corp.            |    1916 | Varius Et PC                         |
+| Ut Consulting                |    1918 | A Felis Institute                    |
+| Ut Consulting                |    1918 | Blandit Nam Company                  |
+| Ut Consulting                |    1918 | Donec Est Corporation                |
+| Ut Consulting                |    1918 | Dui Lectus Institute                 |
+| Ut Consulting                |    1918 | Enim Corporation                     |
+| Ut Consulting                |    1918 | Fermentum Risus Consulting           |
+| Ut Consulting                |    1918 | Montes Nascetur Ridiculus Industries |
+| Ut Consulting                |    1918 | Vivamus Nibh Dolor Consulting        |
+| Elit Incorporated            |    1999 | Erat Volutpat Incorporated           |
+| Elit Incorporated            |    1999 | Et Magna PC                          |
+| Elit Incorporated            |    1999 | Justo LLP                            |
+| Elit Incorporated            |    1999 | Luctus Sit Amet Corp.                |
+| Elit Incorporated            |    1999 | Tellus Aenean Egestas Incorporated   |
+| Elit Incorporated            |    1999 | Varius Et PC                         |
+| Ac Feugiat Non Company       |    1888 | Dolor Fusce Ltd                      |
+| Ac Feugiat Non Company       |    1888 | Duis Cursus Corporation              |
+| Ac Feugiat Non Company       |    1888 | Facilisis Vitae Orci Incorporated    |
+| Ac Feugiat Non Company       |    1888 | Id Nunc Ltd                          |
+| Ac Feugiat Non Company       |    1888 | Lacus Ltd                            |
+| Ac Feugiat Non Company       |    1888 | Nibh LLC                             |
+| Ac Feugiat Non Company       |    1888 | Pede Praesent Eu PC                  |
+| Ac Feugiat Non Company       |    1888 | Sed Associates                       |
+| Ac Feugiat Non Company       |    1888 | Vehicula LLP                         |
+| Facilisis Non Bibendum Corp. |    2010 | Dolor Dolor Tempus PC                |
+| Facilisis Non Bibendum Corp. |    2010 | Dolor Fusce Ltd                      |
+| Facilisis Non Bibendum Corp. |    2010 | Duis Cursus Corporation              |
+| Facilisis Non Bibendum Corp. |    2010 | Id Nunc Ltd                          |
+| Facilisis Non Bibendum Corp. |    2010 | Molestie Sodales Mauris PC           |
+| Facilisis Non Bibendum Corp. |    2010 | Nibh LLC                             |
+| Facilisis Non Bibendum Corp. |    2010 | Sed Associates                       |
+| Facilisis Non Bibendum Corp. |    2010 | Vehicula LLP                         |
+| Dapibus Incorporated         |    1897 | Dolor Fusce Ltd                      |
+| Dapibus Incorporated         |    1897 | Duis Cursus Corporation              |
+| Dapibus Incorporated         |    1897 | Elit Fermentum Risus Incorporated    |
++------------------------------+---------+--------------------------------------+
+100 rows in set (0.01 sec)
+
++-----------------------+---------------+
+| name                  | Yearly_Income |
++-----------------------+---------------+
+| Ferrell, Quintessa Y. |         86264 |
+| Poole, Dorothy S.     |             0 |
+| Skinner, Winter N.    |             0 |
+| Clements, Alana X.    |             0 |
+| Murphy, Amanda S.     |             0 |
+| Bullock, Brenden E.   |             0 |
+| Cooke, Camilla J.     |         74212 |
+| Lang, Noble L.        |         76675 |
+| Neal, Jana F.         |         63582 |
+| Bridges, Lacy U.      |         85237 |
+| Long, Mikayla O.      |         69464 |
+| Nielsen, Katell F.    |         62876 |
+| Livingston, Risa X.   |         57521 |
+| Vazquez, Tanek U.     |         95550 |
+| Pruitt, Barry R.      |         62521 |
+| Warren, Stella W.     |         76824 |
+| Stanton, Bert K.      |         50402 |
+| Harrison, Cherokee S. |         70507 |
+| York, Moses H.        |         57340 |
+| Ratliff, Ina S.       |         72080 |
+| Logan, Rhea U.        |         55711 |
+| Meyer, Danielle I.    |         57755 |
+| Langley, Ivan E.      |         63403 |
+| Burton, Urielle L.    |         76703 |
+| Gibbs, Michael V.     |         82067 |
+| Noel, Alfonso T.      |         92674 |
+| Thomas, Quin O.       |         91420 |
+| Cherry, Kibo H.       |         70160 |
+| Brown, Shelley Z.     |         80743 |
+| Whitehead, Kirsten V. |         60368 |
+| Merrill, Tyrone J.    |         66965 |
+| Nguyen, Zorita V.     |         83033 |
+| Roy, Alfonso B.       |         55670 |
+| Carpenter, Quincy K.  |         85875 |
+| Hatfield, Otto S.     |         64387 |
+| Barry, Noelle F.      |         59492 |
+| Heath, Jena K.        |         90598 |
+| Blackburn, Alyssa F.  |         61441 |
+| Mcleod, Ava R.        |         53996 |
+| Barnes, Alfonso W.    |         86540 |
+| Randolph, Simone P.   |         52445 |
+| Velasquez, Stone I.   |         69248 |
+| Stewart, Len L.       |         64388 |
+| Cooper, Portia X.     |         56446 |
+| Shepard, Salvador K.  |         85007 |
+| Cohen, Adele W.       |         95654 |
+| Garrett, Clarke U.    |         94108 |
+| Carson, Yolanda R.    |         80428 |
+| Landry, Montana C.    |         89959 |
+| Daniel, Bert H.       |         50529 |
+| Shepard, Jayme K.     |         65790 |
+| Christian, Adrian U.  |         65522 |
+| Frye, Justin V.       |         82737 |
+| Chapman, Ian G.       |         71500 |
+| Hardin, Eric O.       |         72272 |
+| Shannon, Harrison F.  |         84693 |
+| Key, Chester V.       |         75332 |
+| Anthony, Jenette L.   |         94647 |
+| Martinez, Bo X.       |         86377 |
+| Gill, Halee Y.        |         74983 |
+| Sellers, Xerxes E.    |         75039 |
+| Flowers, Orson L.     |         64647 |
+| Owens, Aidan R.       |         96977 |
+| Coleman, Aspen I.     |         75501 |
+| West, Unity C.        |         57690 |
+| Solomon, Sloane T.    |         52814 |
+| Romero, Maisie J.     |         50211 |
+| Beck, Thomas C.       |         99020 |
+| Walker, Sloane W.     |         60467 |
+| Mccarthy, Brooke D.   |         56953 |
+| Mcdonald, Cain P.     |         93107 |
+| York, Harper Y.       |         85740 |
+| Pate, Shaeleigh C.    |         86508 |
+| Madden, Gabriel T.    |         73192 |
+| Jacobs, Hector N.     |         69046 |
+| Gentry, Adena J.      |         69117 |
+| Marquez, Galena P.    |         88485 |
+| Harrell, Maile T.     |         90972 |
+| Cash, Silas Z.        |         55866 |
+| Clemons, Richard A.   |         91903 |
+| Newman, Ursula U.     |         78718 |
+| Oneil, Imogene L.     |         58826 |
+| Pacheco, Axel Z.      |         52980 |
+| Acosta, Aurelia O.    |         87218 |
+| Sanchez, Giacomo V.   |         64960 |
+| Lowery, Calista F.    |         93965 |
+| Chang, Caldwell D.    |         97482 |
+| Tyler, Sopoline H.    |         56510 |
+| Erickson, Francis P.  |         80544 |
+| Solis, Leilani V.     |         76749 |
+| Holman, Tucker Z.     |         89078 |
+| Delaney, Elliott B.   |         83229 |
+| Rutledge, Ralph L.    |         93977 |
+| Willis, Caleb A.      |         64076 |
+| Bradford, Harriet D.  |         79542 |
+| Clayton, Luke E.      |         98676 |
+| Mcleod, Rhea H.       |         64516 |
+| Jacobs, Felix Z.      |         94850 |
+| Cortez, Allistair W.  |         84670 |
+| Hayes, Basil N.       |         64688 |
++-----------------------+---------------+
+100 rows in set (0.01 sec)
+
++-------------------+-------------------------------------+-------------------------------------+
+| name              | name                                | address                             |
++-------------------+-------------------------------------+-------------------------------------+
+| Dickson, Halla Y. | Gravida Sagittis LLC                | 967-8866 Ornare. St.                |
+| Dickson, Halla Y. | Gravida Sagittis LLC                | P.O. Box 898, 9876 Libero St.       |
+| Bruce, Jarrod X.  | Erat PC                             | P.O. Box 723, 5598 Aliquam Rd.      |
+| Bruce, Jarrod X.  | Odio Associates                     | P.O. Box 723, 5598 Aliquam Rd.      |
+| Bruce, Jarrod X.  | Arcu Vestibulum Corp.               | P.O. Box 723, 5598 Aliquam Rd.      |
+| Bruce, Jarrod X.  | Vitae Odio Industries               | P.O. Box 723, 5598 Aliquam Rd.      |
+| Bruce, Jarrod X.  | Etiam Ligula Foundation             | P.O. Box 723, 5598 Aliquam Rd.      |
+| Bruce, Jarrod X.  | Suscipit Nonummy Fusce Incorporated | P.O. Box 723, 5598 Aliquam Rd.      |
+| Bruce, Jarrod X.  | Vestibulum Foundation               | P.O. Box 723, 5598 Aliquam Rd.      |
+| Bruce, Jarrod X.  | Tellus Industries                   | P.O. Box 723, 5598 Aliquam Rd.      |
+| Bruce, Jarrod X.  | Cursus Purus Corp.                  | P.O. Box 723, 5598 Aliquam Rd.      |
+| Bruce, Jarrod X.  | Neque Sed Consulting                | P.O. Box 723, 5598 Aliquam Rd.      |
+| Bruce, Jarrod X.  | Aliquam Arcu Aliquam Ltd            | P.O. Box 723, 5598 Aliquam Rd.      |
+| Bruce, Jarrod X.  | Ultrices Duis Volutpat PC           | P.O. Box 723, 5598 Aliquam Rd.      |
+| Bruce, Jarrod X.  | Blandit Congue In Corp.             | P.O. Box 723, 5598 Aliquam Rd.      |
+| Bruce, Jarrod X.  | Magna Corp.                         | P.O. Box 723, 5598 Aliquam Rd.      |
+| Bruce, Jarrod X.  | Purus Consulting                    | P.O. Box 723, 5598 Aliquam Rd.      |
+| Bruce, Jarrod X.  | Tellus Consulting                   | P.O. Box 723, 5598 Aliquam Rd.      |
+| Bruce, Jarrod X.  | Erat PC                             | Ap #261-4752 Consectetuer Rd.       |
+| Bruce, Jarrod X.  | Odio Associates                     | Ap #261-4752 Consectetuer Rd.       |
+| Bruce, Jarrod X.  | Arcu Vestibulum Corp.               | Ap #261-4752 Consectetuer Rd.       |
+| Bruce, Jarrod X.  | Vitae Odio Industries               | Ap #261-4752 Consectetuer Rd.       |
+| Bruce, Jarrod X.  | Etiam Ligula Foundation             | Ap #261-4752 Consectetuer Rd.       |
+| Bruce, Jarrod X.  | Suscipit Nonummy Fusce Incorporated | Ap #261-4752 Consectetuer Rd.       |
+| Bruce, Jarrod X.  | Vestibulum Foundation               | Ap #261-4752 Consectetuer Rd.       |
+| Bruce, Jarrod X.  | Tellus Industries                   | Ap #261-4752 Consectetuer Rd.       |
+| Bruce, Jarrod X.  | Cursus Purus Corp.                  | Ap #261-4752 Consectetuer Rd.       |
+| Bruce, Jarrod X.  | Neque Sed Consulting                | Ap #261-4752 Consectetuer Rd.       |
+| Bruce, Jarrod X.  | Aliquam Arcu Aliquam Ltd            | Ap #261-4752 Consectetuer Rd.       |
+| Bruce, Jarrod X.  | Ultrices Duis Volutpat PC           | Ap #261-4752 Consectetuer Rd.       |
+| Bruce, Jarrod X.  | Blandit Congue In Corp.             | Ap #261-4752 Consectetuer Rd.       |
+| Bruce, Jarrod X.  | Magna Corp.                         | Ap #261-4752 Consectetuer Rd.       |
+| Bruce, Jarrod X.  | Purus Consulting                    | Ap #261-4752 Consectetuer Rd.       |
+| Bruce, Jarrod X.  | Tellus Consulting                   | Ap #261-4752 Consectetuer Rd.       |
+| Bruce, Jarrod X.  | Erat PC                             | P.O. Box 275, 5409 Fringilla Avenue |
+| Bruce, Jarrod X.  | Odio Associates                     | P.O. Box 275, 5409 Fringilla Avenue |
+| Bruce, Jarrod X.  | Arcu Vestibulum Corp.               | P.O. Box 275, 5409 Fringilla Avenue |
+| Bruce, Jarrod X.  | Vitae Odio Industries               | P.O. Box 275, 5409 Fringilla Avenue |
+| Bruce, Jarrod X.  | Etiam Ligula Foundation             | P.O. Box 275, 5409 Fringilla Avenue |
+| Bruce, Jarrod X.  | Suscipit Nonummy Fusce Incorporated | P.O. Box 275, 5409 Fringilla Avenue |
+| Bruce, Jarrod X.  | Vestibulum Foundation               | P.O. Box 275, 5409 Fringilla Avenue |
+| Bruce, Jarrod X.  | Tellus Industries                   | P.O. Box 275, 5409 Fringilla Avenue |
+| Bruce, Jarrod X.  | Cursus Purus Corp.                  | P.O. Box 275, 5409 Fringilla Avenue |
+| Bruce, Jarrod X.  | Neque Sed Consulting                | P.O. Box 275, 5409 Fringilla Avenue |
+| Bruce, Jarrod X.  | Aliquam Arcu Aliquam Ltd            | P.O. Box 275, 5409 Fringilla Avenue |
+| Bruce, Jarrod X.  | Ultrices Duis Volutpat PC           | P.O. Box 275, 5409 Fringilla Avenue |
+| Bruce, Jarrod X.  | Blandit Congue In Corp.             | P.O. Box 275, 5409 Fringilla Avenue |
+| Bruce, Jarrod X.  | Magna Corp.                         | P.O. Box 275, 5409 Fringilla Avenue |
+| Bruce, Jarrod X.  | Purus Consulting                    | P.O. Box 275, 5409 Fringilla Avenue |
+| Bruce, Jarrod X.  | Tellus Consulting                   | P.O. Box 275, 5409 Fringilla Avenue |
+| Bruce, Jarrod X.  | Erat PC                             | 429-4139 Convallis Av.              |
+| Bruce, Jarrod X.  | Odio Associates                     | 429-4139 Convallis Av.              |
+| Bruce, Jarrod X.  | Arcu Vestibulum Corp.               | 429-4139 Convallis Av.              |
+| Bruce, Jarrod X.  | Vitae Odio Industries               | 429-4139 Convallis Av.              |
+| Bruce, Jarrod X.  | Etiam Ligula Foundation             | 429-4139 Convallis Av.              |
+| Bruce, Jarrod X.  | Suscipit Nonummy Fusce Incorporated | 429-4139 Convallis Av.              |
+| Bruce, Jarrod X.  | Vestibulum Foundation               | 429-4139 Convallis Av.              |
+| Bruce, Jarrod X.  | Tellus Industries                   | 429-4139 Convallis Av.              |
+| Bruce, Jarrod X.  | Cursus Purus Corp.                  | 429-4139 Convallis Av.              |
+| Bruce, Jarrod X.  | Neque Sed Consulting                | 429-4139 Convallis Av.              |
+| Bruce, Jarrod X.  | Aliquam Arcu Aliquam Ltd            | 429-4139 Convallis Av.              |
+| Bruce, Jarrod X.  | Ultrices Duis Volutpat PC           | 429-4139 Convallis Av.              |
+| Bruce, Jarrod X.  | Blandit Congue In Corp.             | 429-4139 Convallis Av.              |
+| Bruce, Jarrod X.  | Magna Corp.                         | 429-4139 Convallis Av.              |
+| Bruce, Jarrod X.  | Purus Consulting                    | 429-4139 Convallis Av.              |
+| Bruce, Jarrod X.  | Tellus Consulting                   | 429-4139 Convallis Av.              |
+| Bruce, Jarrod X.  | Erat PC                             | 732 Pede Av.                        |
+| Bruce, Jarrod X.  | Odio Associates                     | 732 Pede Av.                        |
+| Bruce, Jarrod X.  | Arcu Vestibulum Corp.               | 732 Pede Av.                        |
+| Bruce, Jarrod X.  | Vitae Odio Industries               | 732 Pede Av.                        |
+| Bruce, Jarrod X.  | Etiam Ligula Foundation             | 732 Pede Av.                        |
+| Bruce, Jarrod X.  | Suscipit Nonummy Fusce Incorporated | 732 Pede Av.                        |
+| Bruce, Jarrod X.  | Vestibulum Foundation               | 732 Pede Av.                        |
+| Bruce, Jarrod X.  | Tellus Industries                   | 732 Pede Av.                        |
+| Bruce, Jarrod X.  | Cursus Purus Corp.                  | 732 Pede Av.                        |
+| Bruce, Jarrod X.  | Neque Sed Consulting                | 732 Pede Av.                        |
+| Bruce, Jarrod X.  | Aliquam Arcu Aliquam Ltd            | 732 Pede Av.                        |
+| Bruce, Jarrod X.  | Ultrices Duis Volutpat PC           | 732 Pede Av.                        |
+| Bruce, Jarrod X.  | Blandit Congue In Corp.             | 732 Pede Av.                        |
+| Bruce, Jarrod X.  | Magna Corp.                         | 732 Pede Av.                        |
+| Bruce, Jarrod X.  | Purus Consulting                    | 732 Pede Av.                        |
+| Bruce, Jarrod X.  | Tellus Consulting                   | 732 Pede Av.                        |
+| Bruce, Jarrod X.  | Erat PC                             | 145-6635 Tempus Ave                 |
+| Bruce, Jarrod X.  | Odio Associates                     | 145-6635 Tempus Ave                 |
+| Bruce, Jarrod X.  | Arcu Vestibulum Corp.               | 145-6635 Tempus Ave                 |
+| Bruce, Jarrod X.  | Vitae Odio Industries               | 145-6635 Tempus Ave                 |
+| Bruce, Jarrod X.  | Etiam Ligula Foundation             | 145-6635 Tempus Ave                 |
+| Bruce, Jarrod X.  | Suscipit Nonummy Fusce Incorporated | 145-6635 Tempus Ave                 |
+| Bruce, Jarrod X.  | Vestibulum Foundation               | 145-6635 Tempus Ave                 |
+| Bruce, Jarrod X.  | Tellus Industries                   | 145-6635 Tempus Ave                 |
+| Bruce, Jarrod X.  | Cursus Purus Corp.                  | 145-6635 Tempus Ave                 |
+| Bruce, Jarrod X.  | Neque Sed Consulting                | 145-6635 Tempus Ave                 |
+| Bruce, Jarrod X.  | Aliquam Arcu Aliquam Ltd            | 145-6635 Tempus Ave                 |
+| Bruce, Jarrod X.  | Ultrices Duis Volutpat PC           | 145-6635 Tempus Ave                 |
+| Bruce, Jarrod X.  | Blandit Congue In Corp.             | 145-6635 Tempus Ave                 |
+| Bruce, Jarrod X.  | Magna Corp.                         | 145-6635 Tempus Ave                 |
+| Bruce, Jarrod X.  | Purus Consulting                    | 145-6635 Tempus Ave                 |
+| Bruce, Jarrod X.  | Tellus Consulting                   | 145-6635 Tempus Ave                 |
+| Bruce, Jarrod X.  | Erat PC                             | Ap #949-6677 Eu Street              |
+| Bruce, Jarrod X.  | Odio Associates                     | Ap #949-6677 Eu Street              |
++-------------------+-------------------------------------+-------------------------------------+
+100 rows in set (0.00 sec)
+
++------------------+----------------+
+| city             | state          |
++------------------+----------------+
+| Florianópolis    | Santa Catarina |
+| Petrópolis       | RJ             |
+| Divinópolis      | MG             |
+| Anápolis         | GO             |
+| Petrópolis       | Rio de Janeiro |
+| Divinópolis      | Minas Gerais   |
+| Anápolis         | Goiás          |
+| Florianópolis    | SC             |
+| Annapolis County | Nova Scotia    |
++------------------+----------------+
+9 rows in set (0.01 sec)
+
++--------------------+-----+
+| name               | CNT |
++--------------------+-----+
+| Bates, Stuart H.   |   3 |
+| Stein, Audrey V.   |   3 |
+| Trujillo, Nehru Z. |   3 |
++--------------------+-----+
+3 rows in set (1.37 sec)
+
++--------+-----------+
+| id_emp | startdate |
++--------+-----------+
+|   3521 | 01-01-02  |
+|   8406 | 01-01-03  |
+|   5743 | 01-01-05  |
+|   6549 | 01-01-06  |
+|   6024 | 01-01-07  |
+|   2914 | 01-01-07  |
+|    542 | 01-01-07  |
+|   2227 | 01-01-08  |
+|   3219 | 01-01-08  |
+|   3378 | 01-01-09  |
+|   2854 | 01-01-09  |
+|   9696 | 01-01-09  |
+|   5608 | 01-01-09  |
+|   7932 | 01-01-09  |
+|   3790 | 01-01-10  |
+|   1123 | 01-01-10  |
+|   8741 | 01-01-10  |
+|   4760 | 01-01-11  |
+|   1683 | 01-01-11  |
+|   3414 | 01-01-12  |
+|   6767 | 01-01-12  |
+|   6648 | 01-01-12  |
+|   5594 | 01-01-13  |
+|   9881 | 01-01-15  |
+|     52 | 01-01-15  |
+|    926 | 01-01-16  |
+|   2658 | 01-01-16  |
+|   3362 | 01-01-16  |
+|   1630 | 01-01-17  |
+|   4892 | 01-01-98  |
+|   8235 | 01-01-98  |
+|   8801 | 01-01-99  |
+|    692 | 01-01-99  |
+|   4753 | 01-01-99  |
+|   4371 | 01-02-00  |
+|   8301 | 01-02-00  |
+|   4861 | 01-02-01  |
+|   5344 | 01-02-01  |
+|   3278 | 01-02-01  |
+|   4036 | 01-02-02  |
+|   2717 | 01-02-03  |
+|   9260 | 01-02-04  |
+|   9441 | 01-02-04  |
+|    232 | 01-02-07  |
+|   6181 | 01-02-07  |
+|   7608 | 01-02-07  |
+|   4654 | 01-02-07  |
+|   5471 | 01-02-08  |
+|   2547 | 01-02-09  |
+|   8438 | 01-02-10  |
+|   9687 | 01-02-10  |
+|   4484 | 01-02-10  |
+|   7581 | 01-02-11  |
+|   5923 | 01-02-11  |
+|   1399 | 01-02-11  |
+|   8939 | 01-02-12  |
+|   3740 | 01-02-14  |
+|    904 | 01-02-15  |
+|   2278 | 01-02-15  |
+|   7311 | 01-02-15  |
+|   8279 | 01-02-15  |
+|   9381 | 01-02-15  |
+|   9302 | 01-02-16  |
+|    250 | 01-02-16  |
+|   1002 | 01-02-16  |
+|   3473 | 01-02-16  |
+|   5607 | 01-02-17  |
+|   6784 | 01-02-98  |
+|   3729 | 01-02-98  |
+|   1746 | 01-02-98  |
+|   9996 | 01-02-99  |
+|   6007 | 01-02-99  |
+|   1834 | 01-03-00  |
+|   6156 | 01-03-01  |
+|   5439 | 01-03-02  |
+|   7668 | 01-03-02  |
+|   6346 | 01-03-02  |
+|   4132 | 01-03-03  |
+|   4538 | 01-03-03  |
+|   3922 | 01-03-03  |
+|   3374 | 01-03-03  |
+|    296 | 01-03-03  |
+|   1685 | 01-03-03  |
+|   9127 | 01-03-05  |
+|   5025 | 01-03-06  |
+|   4253 | 01-03-07  |
+|   5457 | 01-03-08  |
+|   3858 | 01-03-09  |
+|   1839 | 01-03-09  |
+|   1874 | 01-03-10  |
+|   3437 | 01-03-11  |
+|    422 | 01-03-11  |
+|   9917 | 01-03-11  |
+|   8617 | 01-03-11  |
+|   6687 | 01-03-11  |
+|   3698 | 01-03-12  |
+|   2853 | 01-03-13  |
+|   2188 | 01-03-14  |
+|   6590 | 01-03-14  |
+|   4948 | 01-03-14  |
++--------+-----------+
+100 rows in set (0.02 sec)
+
++---------------------------------------+---------+
+| type                                  | vintage |
++---------------------------------------+---------+
+| Pinot Noir                            |    1999 |
+| Cabernet Savignon                     |    2003 |
+| Merlot                                |    2012 |
+| White Zinfindel                       |    2013 |
+| Chardonney                            |    2008 |
+| Cursus LLC                            |    1981 |
+| Sit Amet PC                           |    1978 |
+| In Consequat LLC                      |    1889 |
+| Fermentum PC                          |    1978 |
+| Arcu Curabitur Institute              |    2004 |
+| Hendrerit Incorporated                |    1894 |
+| Pharetra Nibh Foundation              |    1905 |
+| Magna Praesent Interdum PC            |    1899 |
+| Parturient Montes LLP                 |    1984 |
+| At Augue Id Corp.                     |    1916 |
+| Ut Consulting                         |    1918 |
+| Elit Incorporated                     |    1999 |
+| Ac Feugiat Non Company                |    1888 |
+| Vehicula Pellentesque Foundation      |    1986 |
+| Facilisis Non Bibendum Corp.          |    2010 |
+| Dapibus Incorporated                  |    1897 |
+| Interdum Libero Industries            |    1982 |
+| Et Netus Foundation                   |    1910 |
+| Arcu Inc.                             |    2002 |
+| In PC                                 |    1976 |
+| Vitae Mauris Associates               |    1981 |
+| Nec Enim Institute                    |    1961 |
+| Augue Id Ante LLC                     |    1969 |
+| Tortor Corporation                    |    1983 |
+| Eget Associates                       |    1980 |
+| Nibh Inc.                             |    2000 |
+| Dignissim Pharetra Foundation         |    1926 |
+| Cras Eget Inc.                        |    1969 |
+| Dolor Quisque Tincidunt Limited       |    1903 |
+| Vulputate Corp.                       |    1997 |
+| Fermentum Arcu PC                     |    1982 |
+| Bibendum Ullamcorper Duis LLP         |    1916 |
+| Tellus Id Nunc PC                     |    1955 |
+| Aliquet Nec Associates                |    1941 |
+| Malesuada Company                     |    1930 |
+| Turpis Limited                        |    1940 |
+| Dignissim LLP                         |    1990 |
+| In Sodales Foundation                 |    1872 |
+| Non Enim Corporation                  |    1905 |
+| Nullam Vitae Company                  |    1992 |
+| Nonummy Corp.                         |    1902 |
+| Lobortis Quis Industries              |    1913 |
+| Nunc Ac Mattis LLP                    |    1883 |
+| Eu Euismod Ac PC                      |    1951 |
+| Nulla Company                         |    1914 |
+| Iaculis Odio Nam Company              |    1993 |
+| Arcu Vestibulum Institute             |    1940 |
+| Suspendisse Commodo Ltd               |    2006 |
+| Elit Pellentesque A Incorporated      |    1891 |
+| Eget Mollis Lectus Associates         |    1889 |
+| Dictum Augue LLC                      |    1931 |
+| Viverra Incorporated                  |    1966 |
+| Cursus Et Magna Foundation            |    1989 |
+| A Associates                          |    1936 |
+| Lobortis Class Institute              |    1967 |
+| Aenean PC                             |    1873 |
+| Placerat Augue Sed Industries         |    1878 |
+| Dapibus Quam Quis Incorporated        |    1903 |
+| Venenatis A PC                        |    1985 |
+| Sem PC                                |    1948 |
+| Aliquam Gravida Consulting            |    1973 |
+| Ut Limited                            |    1953 |
+| Amet Risus Limited                    |    1890 |
+| Nulla Tincidunt Neque PC              |    2004 |
+| Lorem Corporation                     |    1870 |
+| Nulla Ltd                             |    1990 |
+| Iaculis Industries                    |    1881 |
+| Pede Nunc Industries                  |    1952 |
+| Sodales Incorporated                  |    1954 |
+| Tellus Nunc Lectus Associates         |    2004 |
+| Ante Associates                       |    1983 |
+| Vestibulum LLC                        |    1888 |
+| At Sem Molestie Company               |    1949 |
+| Gravida Sagittis Foundation           |    2007 |
+| Tincidunt Tempus Risus Associates     |    1934 |
+| Aliquam Adipiscing Lacus Incorporated |    1943 |
+| Pretium Et Consulting                 |    1885 |
+| Cras Convallis Convallis Consulting   |    1984 |
+| Tellus LLP                            |    1985 |
+| Nibh Donec Est Corporation            |    1970 |
+| A Auctor Non Ltd                      |    2001 |
+| Pede Limited                          |    1954 |
+| Suspendisse Sed Institute             |    1985 |
+| Sed Diam Lorem Company                |    1976 |
+| Pharetra Quisque Ac LLC               |    1884 |
+| Velit Dui Semper Inc.                 |    1892 |
+| Ornare Placerat Ltd                   |    1870 |
+| Non Dui Nec Institute                 |    1890 |
+| Vestibulum Ante Ipsum Inc.            |    1893 |
+| Ante Bibendum Ullamcorper Ltd         |    1913 |
+| Faucibus LLC                          |    1952 |
+| Ligula Consectetuer LLC               |    1885 |
+| Ligula Inc.                           |    1939 |
+| Aliquet Proin Velit Ltd               |    1944 |
+| Semper Corp.                          |    1942 |
++---------------------------------------+---------+
+100 rows in set (0.01 sec)
+
++----------------+
+| salary_Average |
++----------------+
+|     75076.0090 |
++----------------+
+1 row in set (0.00 sec)
+
+Query OK, 1862 rows affected (0.06 sec)
+Rows matched: 1862  Changed: 1862  Warnings: 0
+
+Query OK, 0 rows affected (0.00 sec)
+Rows matched: 0  Changed: 0  Warnings: 0
+
+Query OK, 0 rows affected (1.49 sec)
+
+Query OK, 7578 rows affected (0.16 sec)
+
+Query OK, 192417 rows affected (0.62 sec)
+Records: 192417  Duplicates: 0  Warnings: 0
+
+Query OK, 5 rows affected, 10 warnings (0.04 sec)
+Records: 5  Duplicates: 0  Warnings: 10
+
+mysql> notee
