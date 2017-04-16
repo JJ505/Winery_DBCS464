@@ -1,0 +1,28 @@
+The ten queries we ran do the following:
+
+1. Select all wines that are a $100 or greater 
+--- And have a vintage of 1975 or older
+
+2. Select the names of all employees who are sommeliers and show their alcohol certifications.
+---And the city and state they are in
+
+3. Pair wine and food items when the wine is more expensive than the food, but withing $10, produce a list of these pairing that are under $90.
+
+4. Create a list of the annual income of managers and sommeliers.
+--- And merchandisers taking the hourly wages of sommelier and merchandiser and estimating what a full time employee would make.
+
+5. Create a list of all online buyers that are in the same state as a store that sells the wine and a location that makes the wine. 
+
+6. Produce the city and states where there are employees or locations that are in a city with a 'polis' in the name. 
+-- And count the customers in the same location.
+
+7. Get the names of all online leads who have 3 or more email addresses.
+
+8. Get a list of employee ids and startdates ordered by their startdate.
+-- manager ids
+
+9. Get the distinct wine vintage and types of bottles that are under $100.
+
+10. Get the average salary of all the managers.
+-- And average annual income of sommelier and merchandiser if they worked full time.
+
