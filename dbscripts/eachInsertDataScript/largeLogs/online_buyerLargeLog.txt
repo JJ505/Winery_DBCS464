@@ -1,0 +1,2006 @@
+mysql> source online_buyer.sql
+Query OK, 295 rows affected (0.01 sec)
+Records: 295  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.02 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.03 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.09 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.02 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.02 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.02 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.03 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.02 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.02 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.02 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.02 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.02 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.03 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 100 rows affected (0.01 sec)
+Records: 100  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.02 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.02 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.02 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.02 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.02 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.02 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.03 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.02 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.02 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.02 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.02 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.02 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.02 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.02 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.02 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.02 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.03 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.02 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.00 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 300 rows affected (0.01 sec)
+Records: 300  Duplicates: 0  Warnings: 0
+
+Query OK, 100 rows affected (0.00 sec)
+Records: 100  Duplicates: 0  Warnings: 0
+
+

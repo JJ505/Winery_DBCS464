@@ -2,7 +2,8 @@
 -- 3 general queries
 Select *
       From wine
-      Where price >= 100 AND vintage <='1975' 
+      Where price IN (Select price from wine where price >= 100) 
+      AND vintage <='1975' 
 Limit 10;
 
 Select E.name, S.alc_cert, E.city, E.state

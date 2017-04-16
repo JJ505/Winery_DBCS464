@@ -1,0 +1,210 @@
+mysql> source query.sql
++---------+----------------------------------+---------+-------+
+| id_item | type                             | vintage | price |
++---------+----------------------------------+---------+-------+
+|     101 | Duis Cursus Foundation           |    1966 |   176 |
+|     103 | Tortor Nunc Commodo Industries   |    1870 |   589 |
+|     105 | Sed Tortor Integer PC            |    1948 |   141 |
+|     106 | Neque Venenatis Lacus Foundation |    1956 |   970 |
+|     110 | Arcu Sed Et Inc.                 |    1975 |   383 |
+|     111 | Penatibus Et Magnis Corp.        |    1891 |   869 |
+|     115 | Mauris Elit Dictum Consulting    |    1894 |   920 |
+|     118 | Vestibulum Accumsan Neque Ltd    |    1878 |   471 |
+|     119 | Diam Proin Corp.                 |    1946 |   869 |
+|     120 | Consequat Auctor Nunc Limited    |    1914 |  1063 |
+|     123 | Faucibus Ut Company              |    1888 |   400 |
+|     124 | Nunc Sed Pede LLP                |    1949 |  1126 |
+|     125 | Augue Industries                 |    1895 |   235 |
+|     126 | Eu Ligula Limited                |    1891 |   734 |
+|     127 | Mollis Lectus Pede Incorporated  |    1892 |   768 |
+|     128 | A Enim Ltd                       |    1926 |   896 |
+|     129 | Quisque Purus Sapien Consulting  |    1974 |  1004 |
+|     131 | At Iaculis Foundation            |    1926 |   440 |
+|     132 | Maecenas Mi Foundation           |    1950 |   551 |
+|     133 | Et LLP                           |    1966 |   578 |
++---------+----------------------------------+---------+-------+
+20 rows in set (0.01 sec)
+
++----------------------+----------+---------------+--------------------+
+| name                 | alc_cert | city          | state              |
++----------------------+----------+---------------+--------------------+
+| Caldwell, Lance L.   |   835671 | Alingsås      | O                  |
+| Reese, Cheryl Q.     |   628667 | Siedlce       | MA                 |
+| Calderon, Paloma P.  |   939120 | Berlin        | BE                 |
+| Stanton, Porter C.   |   692997 | Hamburg       | Hamburg            |
+| Delaney, Eden T.     |   864030 | Piracicaba    | SP                 |
+| Romero, Shelly C.    |    14450 |               |                    |
+| Cash, Ezra L.        |    29261 | P?ock         | MA                 |
+| Mercer, Cedric G.    |    15162 | Caxias do Sul | Rio Grande do Sul  |
+| Guerra, Ima P.       |    29283 | Vallentuna    | Stockholms län     |
+| Hood, Vladimir W.    |    19629 | Bydgoszcz     | Kujawsko-pomorskie |
+| Myers, Griffin H.    |    10397 |               |                    |
+| Kirby, Tatiana U.    |    21160 | Vallentuna    | Stockholms län     |
+| Nash, Karleigh U.    |    25236 | Juazeiro      | BA                 |
+| Hamilton, Lillith J. |    21025 | Jönköping     | Jönköpings län     |
+| Roy, Avye A.         |    12009 | Stonewall     | Manitoba           |
+| Gross, Lavinia H.    |    14939 | North Bay     | ON                 |
+| Brennan, Conan B.    |    19796 | Radom         | Mazowieckie        |
+| Pope, Herrod B.      |    14943 | Ponta Grossa  | PR                 |
+| Rosa, Porter V.      |    17302 | Lublin        | LU                 |
+| Burke, Illiana U.    |    27621 | Jelenia Góra  | Dolno?l?skie       |
++----------------------+----------+---------------+--------------------+
+20 rows in set (0.00 sec)
+
++------------------+---------+-----------------------------------+
+| Type             | vintage | food_name                         |
++------------------+---------+-----------------------------------+
+| Cursus LLC       |    1981 | Dolor Dolor Tempus PC             |
+| Cursus LLC       |    1981 | Duis Ltd                          |
+| Cursus LLC       |    1981 | Id Nunc Ltd                       |
+| Cursus LLC       |    1981 | Molestie Incorporated             |
+| Cursus LLC       |    1981 | Molestie Sodales Mauris PC        |
+| Cursus LLC       |    1981 | Vel Pede Blandit Corporation      |
+| Sit Amet PC      |    1978 | Blandit Viverra Associates        |
+| Sit Amet PC      |    1978 | Eleifend Corp.                    |
+| Sit Amet PC      |    1978 | Elit Fermentum Risus Incorporated |
+| Sit Amet PC      |    1978 | Facilisis Vitae Orci Limited      |
+| Sit Amet PC      |    1978 | Malesuada Augue Ut Industries     |
+| Sit Amet PC      |    1978 | Natoque Penatibus Et Consulting   |
+| Sit Amet PC      |    1978 | Nec Tempus Associates             |
+| Sit Amet PC      |    1978 | Nibh Institute                    |
+| Sit Amet PC      |    1978 | Sit LLC                           |
+| Sit Amet PC      |    1978 | Ut Semper Ltd                     |
+| In Consequat LLC |    1889 | Blandit Viverra Associates        |
+| In Consequat LLC |    1889 | Dolor Quam Elementum Corp.        |
+| In Consequat LLC |    1889 | Donec Associates                  |
+| In Consequat LLC |    1889 | Facilisis Vitae Orci Limited      |
++------------------+---------+-----------------------------------+
+20 rows in set (0.00 sec)
+
++-----------------------+---------------+----------+
+| name                  | Yearly_Income | position |
++-----------------------+---------------+----------+
+| Ferrell, Quintessa Y. |         86264 | Manager  |
+| Poole, Dorothy S.     |             0 | Manager  |
+| Skinner, Winter N.    |             0 | Manager  |
+| Clements, Alana X.    |             0 | Manager  |
+| Murphy, Amanda S.     |             0 | Manager  |
+| Bullock, Brenden E.   |             0 | Manager  |
+| Cooke, Camilla J.     |         74212 | Manager  |
+| Lang, Noble L.        |         76675 | Manager  |
+| Neal, Jana F.         |         63582 | Manager  |
+| Bridges, Lacy U.      |         85237 | Manager  |
+| Long, Mikayla O.      |         69464 | Manager  |
+| Nielsen, Katell F.    |         62876 | Manager  |
+| Livingston, Risa X.   |         57521 | Manager  |
+| Vazquez, Tanek U.     |         95550 | Manager  |
+| Pruitt, Barry R.      |         62521 | Manager  |
+| Warren, Stella W.     |         76824 | Manager  |
+| Stanton, Bert K.      |         50402 | Manager  |
+| Harrison, Cherokee S. |         70507 | Manager  |
+| York, Moses H.        |         57340 | Manager  |
+| Ratliff, Ina S.       |         72080 | Manager  |
++-----------------------+---------------+----------+
+20 rows in set (0.05 sec)
+
++-------------------+-------------------------------------+--------------------------------+
+| name              | name                                | address                        |
++-------------------+-------------------------------------+--------------------------------+
+| Dickson, Halla Y. | Gravida Sagittis LLC                | 967-8866 Ornare. St.           |
+| Dickson, Halla Y. | Gravida Sagittis LLC                | P.O. Box 898, 9876 Libero St.  |
+| Bruce, Jarrod X.  | Erat PC                             | P.O. Box 723, 5598 Aliquam Rd. |
+| Bruce, Jarrod X.  | Odio Associates                     | P.O. Box 723, 5598 Aliquam Rd. |
+| Bruce, Jarrod X.  | Arcu Vestibulum Corp.               | P.O. Box 723, 5598 Aliquam Rd. |
+| Bruce, Jarrod X.  | Vitae Odio Industries               | P.O. Box 723, 5598 Aliquam Rd. |
+| Bruce, Jarrod X.  | Etiam Ligula Foundation             | P.O. Box 723, 5598 Aliquam Rd. |
+| Bruce, Jarrod X.  | Suscipit Nonummy Fusce Incorporated | P.O. Box 723, 5598 Aliquam Rd. |
+| Bruce, Jarrod X.  | Vestibulum Foundation               | P.O. Box 723, 5598 Aliquam Rd. |
+| Bruce, Jarrod X.  | Tellus Industries                   | P.O. Box 723, 5598 Aliquam Rd. |
+| Bruce, Jarrod X.  | Cursus Purus Corp.                  | P.O. Box 723, 5598 Aliquam Rd. |
+| Bruce, Jarrod X.  | Neque Sed Consulting                | P.O. Box 723, 5598 Aliquam Rd. |
+| Bruce, Jarrod X.  | Aliquam Arcu Aliquam Ltd            | P.O. Box 723, 5598 Aliquam Rd. |
+| Bruce, Jarrod X.  | Ultrices Duis Volutpat PC           | P.O. Box 723, 5598 Aliquam Rd. |
+| Bruce, Jarrod X.  | Blandit Congue In Corp.             | P.O. Box 723, 5598 Aliquam Rd. |
+| Bruce, Jarrod X.  | Magna Corp.                         | P.O. Box 723, 5598 Aliquam Rd. |
+| Bruce, Jarrod X.  | Purus Consulting                    | P.O. Box 723, 5598 Aliquam Rd. |
+| Bruce, Jarrod X.  | Tellus Consulting                   | P.O. Box 723, 5598 Aliquam Rd. |
+| Bruce, Jarrod X.  | Erat PC                             | Ap #261-4752 Consectetuer Rd.  |
+| Bruce, Jarrod X.  | Odio Associates                     | Ap #261-4752 Consectetuer Rd.  |
++-------------------+-------------------------------------+--------------------------------+
+20 rows in set (0.00 sec)
+
++-------+--------+
+| Type  | CNT    |
++-------+--------+
+| buyer | 199995 |
+| lead  | 199995 |
++-------+--------+
+2 rows in set (13.49 sec)
+
++--------------------+-----+
+| name               | CNT |
++--------------------+-----+
+| Bates, Stuart H.   |   3 |
+| Stein, Audrey V.   |   3 |
+| Trujillo, Nehru Z. |   3 |
++--------------------+-----+
+3 rows in set (3.66 sec)
+
++--------+----------------------+-----------+
+| id_emp | name                 | startdate |
++--------+----------------------+-----------+
+|    542 | Shaffer, Caldwell U. | 01-01-07  |
+|     52 | Frye, Justin V.      | 01-01-15  |
+|    926 | Michael, Maite C.    | 01-01-16  |
+|    692 | Fuller, Jane A.      | 01-01-99  |
+|    232 | Campos, Stephen S.   | 01-02-07  |
+|    904 | Bean, Zahir D.       | 01-02-15  |
+|    250 | Raymond, Karen G.    | 01-02-16  |
+|    296 | Lowe, Rhona G.       | 01-03-03  |
+|    422 | Moran, Kirk Z.       | 01-03-11  |
+|    176 | Juarez, Hayden F.    | 01-04-06  |
+|    946 | Noel, Aiko X.        | 01-04-10  |
+|    451 | Freeman, Katelyn S.  | 01-04-16  |
+|    469 | Barrett, Emmanuel G. | 01-05-01  |
+|    219 | Wong, Stephanie B.   | 01-05-07  |
+|    476 | Hobbs, Isaiah T.     | 01-05-08  |
+|    601 | Rodgers, Blaze I.    | 01-06-07  |
+|    606 | Guerrero, Gage X.    | 01-06-09  |
+|    958 | Sweet, Cynthia U.    | 01-06-15  |
+|    274 | Collins, Mari V.     | 01-06-15  |
+|    395 | Osborn, Phillip Y.   | 01-07-02  |
++--------+----------------------+-----------+
+20 rows in set (0.01 sec)
+
++----------------------------------+---------+
+| type                             | vintage |
++----------------------------------+---------+
+| Pinot Noir                       |    1999 |
+| Cabernet Savignon                |    2003 |
+| Merlot                           |    2012 |
+| White Zinfindel                  |    2013 |
+| Chardonney                       |    2008 |
+| Cursus LLC                       |    1981 |
+| Sit Amet PC                      |    1978 |
+| In Consequat LLC                 |    1889 |
+| Fermentum PC                     |    1978 |
+| Arcu Curabitur Institute         |    2004 |
+| Hendrerit Incorporated           |    1894 |
+| Pharetra Nibh Foundation         |    1905 |
+| Magna Praesent Interdum PC       |    1899 |
+| Parturient Montes LLP            |    1984 |
+| At Augue Id Corp.                |    1916 |
+| Ut Consulting                    |    1918 |
+| Elit Incorporated                |    1999 |
+| Ac Feugiat Non Company           |    1888 |
+| Vehicula Pellentesque Foundation |    1986 |
+| Facilisis Non Bibendum Corp.     |    2010 |
++----------------------------------+---------+
+20 rows in set (0.00 sec)
+
++----------------+--------------+
+| average_income | position     |
++----------------+--------------+
+|     75076.0090 | Manager      |
+|     82843.8000 | Sommelier    |
+|     61965.3483 | Merchandiser |
++----------------+--------------+
+3 rows in set (0.00 sec)
+
+mysql> notee

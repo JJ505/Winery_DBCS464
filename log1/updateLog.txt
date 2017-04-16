@@ -1,0 +1,18 @@
+mysql> source update.sql
+Query OK, 1862 rows affected (0.33 sec)
+Rows matched: 1862  Changed: 1862  Warnings: 0
+
+Query OK, 0 rows affected (0.00 sec)
+Rows matched: 0  Changed: 0  Warnings: 0
+
+Query OK, 0 rows affected (4.02 sec)
+
+Query OK, 7578 rows affected (0.22 sec)
+
+Query OK, 192417 rows affected (0.53 sec)
+Records: 192417  Duplicates: 0  Warnings: 0
+
+Query OK, 5 rows affected, 10 warnings (0.16 sec)
+Records: 5  Duplicates: 0  Warnings: 10
+
+mysql> notee
