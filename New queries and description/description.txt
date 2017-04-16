@@ -1,0 +1,28 @@
+The ten queries we ran do the following:
+-- 3 general queries
+1. Select all wines that are a $100 or greater and have a vintage of 1975 or older
+
+2. Select the names of all employees who are sommeliers and show their alcohol certifications and the city and state they are in
+
+3. Pair wine and food items when the wine is more expensive than the food, but withing $10, produce a list of these pairing that are under $90.
+
+-- 2 join queries related with 3 tables
+4. Create a list of the annual income of managers, sommeliers and merchandisers taking the hourly wages of sommelier and merchandiser and estimating what a full time employee would make.
+
+5. Create a list of all online buyers that are in the same state as a store that sells the wine and a location that makes the wine. 
+
+-- 1 union query
+6. Produce a count for online buyers and a seperate count for online leads.
+
+-- 1 group by query
+7. Get the names of all online leads who have 3 or more email addresses.
+
+-- 1 order by query
+8. Get a names emp id's and startdates of all the managers ordered by their startdate.
+
+-- 1 distinct query
+9. Get the distinct wine vintage and types of bottles that are under $100.
+
+-- 1 aggregate
+10. Get the average salary of all the managers and average annual income of sommelier and merchandiser if they worked full time.
+
