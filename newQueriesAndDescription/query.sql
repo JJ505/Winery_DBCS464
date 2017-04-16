@@ -1,23 +1,18 @@
 -- 10 Queries
 -- 3 general queries
-Select B.*
-From (Select A.*
-      From (Select *
-            From wine
-            Where price >= 100) AS A
-      Where vintage <='1975') AS B
+Select *
+      From wine
+      Where price >= 100 AND vintage <='1975' 
 Limit 10;
 
-Select B.*
-From (Select E.name, S.alc_cert, E.city, E.state
+Select E.name, S.alc_cert, E.city, E.state
       From sommelier as S, employee as E
-      Where S.id_emp = E.id_emp) AS B
+      Where S.id_emp = E.id_emp 
 Limit 10;
 
-Select C.*
-From(Select Type, vintage, food_name
+Select Type, vintage, food_name
      From wine as W, food as F
-     Where W.price >= F.price And W.price<= (F.price +10) And W.price < 90) AS C
+     Where W.price >= F.price And W.price<= (F.price +10) And W.price < 90
 Limit 10;
 
 -- 2 join queries related with 3 tables
@@ -39,32 +34,29 @@ Limit 10;
  
 -- 1 union query
 Select A.type as Type, count(A.type) as CNT
-From (Select name, email, 'buyer' as type From online_buyer
+  From (Select name, email, 'buyer' as type From online_buyer
              union 
              Select name, email, 'lead' as type From online_lead) AS A
 Group by A.type;
 
 -- 1 group by query
-Select B.*
-From(Select A.name, Count(A.email) as CNT
-     From online_lead AS A
-     Group by A.name Having CNT >= 3) AS B
+Select name, Count(email) as CNT
+     From online_lead
+     Group by name Having CNT >= 3
 Limit 10;
 
 -- 1 order by query
-Select B.*
-From(Select employee.id_emp, name, startdate 
+Select employee.id_emp, name, startdate 
    From employee, manager 
    where employee.id_emp = manager.id_emp
-   Order By startdate) AS B
+   Order By startdate
 Limit 10;
 
 
 -- 1 distinct query
-Select A.*
-From(Select distinct B.type, B.vintage
-     From wine AS B
-     Where price <100) AS A
+Select distinct type, vintage
+     From wine 
+     Where price <100
 Limit 10;
 
 -- 1 aggregate
